@@ -29,6 +29,7 @@ class MooreMachine {
         }
     }
 
+    
     public String getOutput() {
         return outputs.get(currentState);
     }
